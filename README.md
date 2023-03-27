@@ -6,7 +6,7 @@
 
 
 ### Walkthrough Video
-(https://drive.google.com/file/d/1fgFA3TzrlEDi5pftsHf78taO1w_eDld5/view)
+https://drive.google.com/file/d/1oyaK0uwebP492-zzFUHiKm53lOjKdT64/view
 
 ### User Story
 
